@@ -1,4 +1,4 @@
-# Context Hygiene System (Hybrid Governance Middleware)
+# Context Hygiene System (Hybrid Governance Middleware)Beta
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Ready-green)
 
