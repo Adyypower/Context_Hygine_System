@@ -97,6 +97,15 @@ It does not manage your database or session history. It simply takes `(current_h
 4.  Push to the branch (`git push origin feature/AmazingFeature`).
 5.  Open a Pull Request.
 
+## ⚠️ Limitations & Feedback
+
+**Note**: This is a specialized middleware. While designed to be robust, context pruning is inherently complex.
+*   It may behave differently depending on your specific **System Architecture** or **LLM Choice** (e.g., Llama 3 vs. GPT-4).
+*   Aggressive pruning *can* sometimes remove useful context.
+
+Please **test thoroughly** in your staging environment before deploying to production.  
+We value your feedback! If you find edge cases where it fails, please [Open an Issue](https://github.com/Adyypower/Context_Hygine_System/issues) or submit a Pull Request.
+
 ---
 **Maintained by**: Adyypower(Aditya)
 adityauniquecricketer04@gmail.com
