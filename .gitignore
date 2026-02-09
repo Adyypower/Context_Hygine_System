@@ -1,0 +1,18 @@
+# Environment Variables (Secrets)
+.env
+
+# Python Virtual Environment
+venv/
+env/
+
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# IDE Settings
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
