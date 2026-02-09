@@ -100,5 +100,6 @@ It does not manage your database or session history. It simply takes `(current_h
 5.  Open a Pull Request.
 
 ---
-**Maintained by**: Adyypower  
-**License**: MIT
+**Maintained by**: Adyypower(Aditya)
+adityauniquecricketer04@gmail.com
+
